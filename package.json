@@ -3,13 +3,13 @@
 	"version": "0.1.0",
 	"description": "",
 	"keywords": ["rss3", "mcp", "server", "ai"],
-	"homepage": "https://github.com/rss3-network/mcp-server-rss3#readme",
+	"homepage": "https://github.com/RSS3-Network/mcp-server-rss3#readme",
 	"bugs": {
-		"url": "https://github.com/rss3-network/mcp-server-rss3/issues"
+		"url": "https://github.com/RSS3-Network/mcp-server-rss3/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/rss3-network/mcp-server-rss3.git"
+		"url": "git+https://github.com/RSS3-Network/mcp-server-rss3.git"
 	},
 	"license": "MIT",
 	"author": "",
