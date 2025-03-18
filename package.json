@@ -1,0 +1,35 @@
+{
+	"name": "mcp-server-rss3",
+	"version": "0.1.0",
+	"description": "",
+	"keywords": ["rss3", "mcp", "server", "ai"],
+	"homepage": "https://github.com/rss3-network/mcp-server-rss3#readme",
+	"bugs": {
+		"url": "https://github.com/rss3-network/mcp-server-rss3/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rss3-network/mcp-server-rss3.git"
+	},
+	"license": "MIT",
+	"author": "",
+	"type": "module",
+	"main": "index.js",
+	"bin": {
+		"mcp-server-rss3": "./index.js"
+	},
+	"files": ["index.js"],
+	"scripts": {
+		"release": "bumpp"
+	},
+	"dependencies": {
+		"@modelcontextprotocol/sdk": "^1.7.0",
+		"openapi-mcp-server": "1.2.0-beta05",
+		"tsx": "^4.19.3"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4",
+		"bumpp": "^10.1.0"
+	},
+	"packageManager": "pnpm@10.6.4"
+}
