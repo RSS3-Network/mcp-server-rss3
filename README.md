@@ -2,6 +2,10 @@
 
 An MCP server implementation that integrates the RSS3 API. Query the Open Web like a charm.
 
+<a href="https://glama.ai/mcp/servers/@RSS3-Network/mcp-server-rss3">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@RSS3-Network/mcp-server-rss3/badge" alt="RSS3 Server MCP server" />
+</a>
+
 ## Features
 
 Anything in <https://docs.rss3.io/guide/developer/api>.
